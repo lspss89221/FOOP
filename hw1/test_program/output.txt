@@ -1,0 +1,170 @@
+Deal cards
+Player0: D2 C3 D3 C4 C5 H5 S5 S6 H8 C9 D10 HJ CQ HQ 
+Player1: B0 D6 H6 C7 C8 S9 C10 H10 DQ CK SK CA DA SA 
+Player2: R0 H2 D4 H4 D5 C6 S7 H9 S10 CJ SJ DK HA 
+Player3: C2 S2 H3 S3 S4 D7 H7 D8 S8 D9 DJ SQ HK 
+Drop cards
+Player0: D2 C4 S5 S6 H8 C9 D10 HJ 
+Player1: B0 C7 C8 S9 DQ SA 
+Player2: R0 H2 D5 C6 S7 H9 S10 DK HA 
+Player3: H3 S3 S4 D9 DJ SQ HK 
+Game start
+Player0 draws a card from Player1 B0
+Player0: B0 D2 C4 S5 S6 H8 C9 D10 HJ 
+Player1: C7 C8 S9 DQ SA 
+Player1 draws a card from Player2 S10
+Player1: C7 C8 S9 S10 DQ SA 
+Player2: R0 H2 D5 C6 S7 H9 DK HA 
+Player2 draws a card from Player3 DJ
+Player2: R0 H2 D5 C6 S7 H9 DJ DK HA 
+Player3: S4 D9 SQ HK 
+Player3 draws a card from Player0 D2
+Player3: D2 S4 D9 SQ HK 
+Player0: B0 C4 S5 S6 H8 C9 D10 HJ 
+Player0 draws a card from Player1 SA
+Player0: B0 C4 S5 S6 H8 C9 D10 HJ SA 
+Player1: C7 C8 S9 S10 DQ 
+Player1 draws a card from Player2 R0
+Player1: R0 C7 C8 S9 S10 DQ 
+Player2: H2 D5 C6 S7 H9 DJ DK HA 
+Player2 draws a card from Player3 D2
+Player2: D5 C6 S7 H9 DJ DK HA 
+Player3: S4 D9 SQ HK 
+Player3 draws a card from Player0 S6
+Player3: S4 S6 D9 SQ HK 
+Player0: B0 C4 S5 H8 C9 D10 HJ SA 
+Player0 draws a card from Player1 C8
+Player0: B0 C4 S5 C9 D10 HJ SA 
+Player1: R0 C7 S9 S10 DQ 
+Player1 draws a card from Player2 D5
+Player1: R0 D5 C7 S9 S10 DQ 
+Player2: C6 S7 H9 DJ DK HA 
+Player2 draws a card from Player3 D9
+Player2: C6 S7 DJ DK HA 
+Player3: S4 S6 SQ HK 
+Player3 draws a card from Player0 B0
+Player3: B0 S4 S6 SQ HK 
+Player0: C4 S5 C9 D10 HJ SA 
+Player0 draws a card from Player1 C7
+Player0: C4 S5 C7 C9 D10 HJ SA 
+Player1: R0 D5 S9 S10 DQ 
+Player1 draws a card from Player2 HA
+Player1: R0 D5 S9 S10 DQ HA 
+Player2: C6 S7 DJ DK 
+Player2 draws a card from Player3 HK
+Player2: C6 S7 DJ 
+Player3: B0 S4 S6 SQ 
+Player3 draws a card from Player0 D10
+Player3: B0 S4 S6 D10 SQ 
+Player0: C4 S5 C7 C9 HJ SA 
+Player0 draws a card from Player1 R0
+Player0: R0 C4 S5 C7 C9 HJ SA 
+Player1: D5 S9 S10 DQ HA 
+Player1 draws a card from Player2 DJ
+Player1: D5 S9 S10 DJ DQ HA 
+Player2: C6 S7 
+Player2 draws a card from Player3 D10
+Player2: C6 S7 D10 
+Player3: B0 S4 S6 SQ 
+Player3 draws a card from Player0 HJ
+Player3: B0 S4 S6 HJ SQ 
+Player0: R0 C4 S5 C7 C9 SA 
+Player0 draws a card from Player1 S10
+Player0: R0 C4 S5 C7 C9 S10 SA 
+Player1: D5 S9 DJ DQ HA 
+Player1 draws a card from Player2 C6
+Player1: D5 C6 S9 DJ DQ HA 
+Player2: S7 D10 
+Player2 draws a card from Player3 SQ
+Player2: S7 D10 SQ 
+Player3: B0 S4 S6 HJ 
+Player3 draws a card from Player0 C4
+Player3: B0 S6 HJ 
+Player0: R0 S5 C7 C9 S10 SA 
+Player0 draws a card from Player1 S9
+Player0: R0 S5 C7 S10 SA 
+Player1: D5 C6 DJ DQ HA 
+Player1 draws a card from Player2 SQ
+Player1: D5 C6 DJ HA 
+Player2: S7 D10 
+Player2 draws a card from Player3 B0
+Player2: B0 S7 D10 
+Player3: S6 HJ 
+Player3 draws a card from Player0 C7
+Player3: S6 C7 HJ 
+Player0: R0 S5 S10 SA 
+Player0 draws a card from Player1 D5
+Player0: R0 S10 SA 
+Player1: C6 DJ HA 
+Player1 draws a card from Player2 D10
+Player1: C6 D10 DJ HA 
+Player2: B0 S7 
+Player2 draws a card from Player3 HJ
+Player2: B0 S7 HJ 
+Player3: S6 C7 
+Player3 draws a card from Player0 R0
+Player3: R0 S6 C7 
+Player0: S10 SA 
+Player0 draws a card from Player1 C6
+Player0: C6 S10 SA 
+Player1: D10 DJ HA 
+Player1 draws a card from Player2 B0
+Player1: B0 D10 DJ HA 
+Player2: S7 HJ 
+Player2 draws a card from Player3 S6
+Player2: S6 S7 HJ 
+Player3: R0 C7 
+Player3 draws a card from Player0 C6
+Player3: R0 C6 C7 
+Player0: S10 SA 
+Player0 draws a card from Player1 HA
+Player0: S10 
+Player1: B0 D10 DJ 
+Player1 draws a card from Player2 S6
+Player1: B0 S6 D10 DJ 
+Player2: S7 HJ 
+Player2 draws a card from Player3 C6
+Player2: C6 S7 HJ 
+Player3: R0 C7 
+Player3 draws a card from Player0 S10
+Player3: R0 C7 S10 
+Player0: 
+Player0 wins
+Basic game over
+Continue
+Player1 draws a card from Player2 S7
+Player1: B0 S6 S7 D10 DJ 
+Player2: C6 HJ 
+Player2 draws a card from Player3 S10
+Player2: C6 S10 HJ 
+Player3: R0 C7 
+Player3 draws a card from Player1 S6
+Player3: R0 S6 C7 
+Player1: B0 S7 D10 DJ 
+Player1 draws a card from Player2 S10
+Player1: B0 S7 DJ 
+Player2: C6 HJ 
+Player2 draws a card from Player3 C7
+Player2: C6 C7 HJ 
+Player3: R0 S6 
+Player3 draws a card from Player1 S7
+Player3: R0 S6 S7 
+Player1: B0 DJ 
+Player1 draws a card from Player2 C6
+Player1: B0 C6 DJ 
+Player2: C7 HJ 
+Player2 draws a card from Player3 S7
+Player2: HJ 
+Player3: R0 S6 
+Player3 draws a card from Player1 C6
+Player3: R0 
+Player1: B0 DJ 
+Player1 draws a card from Player2 HJ
+Player1: B0 
+Player2: 
+Player2 wins
+Player3 draws a card from Player1 B0
+Player3: R0 B0 
+Player1: 
+Player1 wins
+Bonus game over
